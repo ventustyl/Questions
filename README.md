@@ -12,10 +12,12 @@
   -  Utilise une introduction animée avant le jeu.
 
   ## Utilisation  
+  
   1. Clonez ce dépôt sur votre machine locale.
   2. Ouvrez le fichier `index.html` dans votre navigateur pour démarrer le questionnaire. 
-  3. 
+
   ## Personnalisation 
+  
    - Modifiez le tableau `questions` dans le fichier `script.js` pour ajouter ou modifier des questions.
    -  Personnalisez les styles en éditant le fichier `style.css`. 
    -  Ajoutez des images ou d'autres ressources pour enrichir le contenu.

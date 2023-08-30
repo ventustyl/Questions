@@ -1,6 +1,8 @@
 # Questionnaire à Choix Multiple
 ![Quiz](https://cdn-icons-png.flaticon.com/256/2641/2641457.png)
- Ce projet est un questionnaire interactif à choix multiple réalisé en HTML, CSS et JavaScript. Il présente un jeu de quiz où les utilisateurs peuvent répondre à une série de questions et voir leur score à la fin. 
+
+ Ce projet est un questionnaire interactif à choix multiple réalisé en HTML, CSS et JavaScript. 
+ Il présente un jeu de quiz où les utilisateurs peuvent répondre à une série de questions et voir leur score à la fin. 
  
  ## Fonctionnalités 
   - Affiche des questions à choix multiple.

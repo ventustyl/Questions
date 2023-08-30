@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Questionnaire</title>
+</head>
+
+<body>
+
+    <div class="grid-container">
+        <div class="intro">
+            <h1>Bienvenue au Quiz</h1>
+
+            <p>Testez vos connaissances avec notre questionnaire à choix multiple !</p>
+
+            <button class="start-button" onclick="startQuiz()">Commencer</button>
+        </div>
+        <div id="questionnaire">
+            <header>
+                <h1>Questionnaire à Choix Multiple</h1>
+            </header>
+            <main>
+                <div class="question-container">
+                    <h2 id="question"></h2>
+                    <div id="choices" class="choices"></div>
+                    <div class="progress-bar">
+                        <div id="progress"></div>
+                    </div>
+                </div>
+            </main>
+        </div>
+        <script src="script.js"></script>
+</body>
+
+</html>
